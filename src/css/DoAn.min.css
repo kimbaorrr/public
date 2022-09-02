@@ -1,0 +1,186 @@
+* {
+    font-family: sans-serif
+}
+
+.container-fluid {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+a,
+a:hover {
+    text-decoration: none;
+    cursor: pointer;
+    transition: all .2s ease-in-out;
+}
+
+.btn img {
+    width: 20px;
+}
+
+.nav-link:hover {
+    color: #0573ff;
+}
+
+.sticky-bottom {
+    cursor: pointer;
+}
+
+.big_font {
+    font-size: 1.1em;
+}
+
+.normal_font {
+    font-size: 1em;
+}
+
+.txtXanh {
+    color: #0573ff;
+}
+
+.txtDen {
+    color: #000;
+}
+
+.nenXam {
+    background-color: #e0e8ef;
+}
+
+.nav {
+    border: none;
+}
+
+.navbar li {
+    margin: 0 3px;
+}
+
+.navbar img {
+    height: 25px;
+    cursor: pointer;
+    margin-top: 2px;
+}
+
+.navbar {
+    font-size: .7em;
+    box-shadow: 0 1px 1px rgb(0 0 0 / 14%);
+}
+
+.card {
+    width: 70%;
+    min-height: 82vh;
+}
+
+img[alt="Laptop"] {
+    width: 100%;
+}
+
+.content {
+    min-height: 92vh;
+}
+
+.ChanTrang {
+    min-height: 5vh;
+}
+
+.checked {
+    list-style: url(https://cdn.statically.io/gh/kimbaorrr/DoAn/main/Thiết%20kế%20web/Images/check.png);
+}
+
+.hinhNho {
+    width: 80%;
+}
+
+.ctHeight {
+    min-height: 100px;
+}
+
+.ic {
+    display: inline-block;
+    background-image: url(https://cdn.statically.io/gh/kimbaorrr/DoAn/main/Thiết%20kế%20web/Images/main_sprites.png);
+    background-repeat: no-repeat;
+    width: 24px;
+    height: 24px;
+    vertical-align: middle;
+    text-indent: -9999px;
+}
+
+.ic.ic-zalo {
+    background-position: 0 -24px;
+    background-size: 200px 200px;
+    width: 28px;
+    height: 28px;
+}
+
+.ic.ic-email {
+    background-position: -28px -24px;
+    background-size: 200px 200px;
+    width: 28px;
+    height: 28px;
+}
+
+.ic.ic-fb {
+    background-position: -56px -24px;
+    background-size: 200px 200px;
+    width: 28px;
+    height: 28px;
+}
+
+.ic.ic-feature-01 {
+    background-position: 0 -104px;
+    width: 48px;
+    height: 48px;
+}
+
+.ic.ic-feature-02 {
+    background-position: -48px -104px;
+    width: 48px;
+    height: 48px;
+}
+
+.ic.ic-feature-03 {
+    background-position: -96px -104px;
+    width: 48px;
+    height: 48px;
+}
+
+.ic.ic-feature-04 {
+    background-position: -144px -104px;
+    width: 48px;
+    height: 48px;
+}
+
+.ic.ic-feature-05 {
+    background-position: -192px -104px;
+    width: 48px;
+    height: 48px;
+}
+
+.ic.ic-feature-06 {
+    background-position: -240px -104px;
+    width: 48px;
+    height: 48px;
+}
+
+.ic.ic-feature-07 {
+    background-position: -288px -104px;
+    width: 48px;
+    height: 48px;
+}
+
+.ic.ic-feature-08 {
+    background-position: -336px -104px;
+    width: 48px;
+    height: 48px;
+}
+
+.ic.ic-feature-09 {
+    background-position: 0 -152px;
+    width: 48px;
+    height: 48px;
+}
+
+.ic.ic-feature-10 {
+    background-position: -48px -152px;
+    width: 48px;
+    height: 48px;
+}
