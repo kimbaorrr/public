@@ -14,7 +14,7 @@ a, a:hover {
 }
 
 a.btn-outline-primary:hover {
-    background-color: #ffffee;
+    pointer-events: none;
 }
 
 .btn img {
