@@ -13,10 +13,6 @@ a, a:hover {
     transition: all .2s ease-in-out;
 }
 
-a.btn-outline-primary:hover {
-    pointer-events: none;
-}
-
 .btn img {
     width: 20px;
 }
